@@ -9,8 +9,9 @@ import './index.css';
 ReactDom.render(
     <SpeechProvider appId="7c4aee08-1073-4a32-b862-ebe1850e0732" language="en-US">
 <Provider>
-    <App />
-    </ Provider>
+    <App>
+    </App >
+    </Provider>
     </SpeechProvider>, 
  document.getElementById('root')
  );
