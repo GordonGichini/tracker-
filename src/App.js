@@ -18,7 +18,7 @@ const App = () => {
     if (speechState === SpeechState) {
       executeScroll();
     }
-  }, [SpeechState]);
+  }, [speechState]);
 
   return (
     <div>
