@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# TRACKER$ -Budget your finances with ease
+
+*Tracker is a user interactive web app that helps you in recording of your finances which keeps track of your money
+-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
