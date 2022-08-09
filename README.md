@@ -3,7 +3,7 @@
 *Tracker is a user interactive web app that helps you in recording of your finances which keeps track of your money
 - An easy to use app...Either you key in manually or use your voice to input data
 
-
+Developed with ReactJS, ContextAPI, Local storage and speechly
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
